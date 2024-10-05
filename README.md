@@ -1,6 +1,6 @@
 I developed a Python program that utilizes two databases to answer a variety of questions all organized through a user-friendly menu interface. The data is on the website: **https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset**.
 
-Questions i answered :
+Questions i answered:
 
 1. How many tips have four or more compliments?
 2. What are the names of the companies that have four or more compliments?
