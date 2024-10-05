@@ -1,4 +1,4 @@
-I wrote code in Python programming language answering queries using two databases with the help of a menu. The data is on the website **https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset**.
+I wrote code in Python programming language answering questions using two databases with the help of a menu. The data is on the website **https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset**.
 
 Questions i answered :
 
